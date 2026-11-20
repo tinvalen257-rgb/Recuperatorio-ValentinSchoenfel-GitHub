@@ -1,4 +1,4 @@
-# int rojo = 8;
+int rojo = 8;
 int amarillo = 9;
 int verde = 10;
 void setup() {
